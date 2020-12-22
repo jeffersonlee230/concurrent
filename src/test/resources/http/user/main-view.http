@@ -1,0 +1,12 @@
+GET https://5d267abd-3477-4587-af34-b92ad6306ee3.mock.pstmn.io/user?userId=1
+
+
+###
+GET https://5d267abd-3477-4587-af34-b92ad6306ee3.mock.pstmn.io/history
+
+###
+GET https://5d267abd-3477-4587-af34-b92ad6306ee3.mock.pstmn.io/credit
+
+
+###
+GET https://5d267abd-3477-4587-af34-b92ad6306ee3.mock.pstmn.io/asset
